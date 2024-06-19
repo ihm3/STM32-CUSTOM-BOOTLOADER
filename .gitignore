@@ -1,0 +1,10 @@
+Startup
+*.cproject
+*.project
+*.launch
+*.ld
+Debug
+*.settings
+syscalls.c
+sysmem.c
+
